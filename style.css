@@ -63,3 +63,10 @@
 .prev:hover {
   background-color: #6622bb;
 }
+
+@media (orientation: portrait) {
+  .container {
+    width: 90%;
+    height: 60%;
+  }
+}
